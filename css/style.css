@@ -1,0 +1,102 @@
+html{
+  font-size: 10px;
+}
+
+main{
+  font-family: 'Source Sans Pro', sans-serif;
+  color: #ffffff;
+  font-family: 'Cedarville Cursive', cursive;
+  background-image: url("../background.jpg");
+  opacity: .9;
+  height: 1000px;
+  padding-left: 20%;
+  padding-top: 376px;
+  text-align: center;
+}
+
+main h1{
+  font-size: 4rem;
+  font-weight: bold;
+}
+
+#listItem, #addToList{
+font-size: 2rem;
+margin-left:  10px;
+border-radius: 10px;
+font-family: 'Sriracha', cursive;
+text-align: center;
+}
+
+.line {
+  text-decoration: line-through;
+}
+
+.bottomSection{
+  font-size: 3rem;
+}
+
+li{
+  font-size: 3rem;
+}
+
+#clearAll, #clearCompleted{
+font-size: 1.5rem;
+margin-left:  7px;
+border-radius: 7px;
+font-family: 'Sriracha', cursive;
+text-align: center;
+}
+
+
+
+/* previous code that im not using:  */
+
+/* STYLING */
+
+/* body {
+  background-color: #FEF5E7;
+}
+
+
+h1 {
+  text-align: center;
+  font-weight: lighter;
+  font-family: courgette;
+  font-size:  40px;
+}
+
+
+button {
+  width: 15%;
+  height: 30px;
+  color:  black;
+  border-radius: 5px;
+} */
+
+
+/* CLASSES */
+
+/* .displayInput {
+  border:  2px solid red;
+  height:  100px;
+
+}
+
+.shownList {
+  border:  2px solid blue;
+  height:  100px;
+
+}
+
+.bottomSection {
+  border:  2px solid green;
+  height:  100px;
+}
+
+
+.bottomSection p {
+  font-weight:  bold;
+  text-align: center;
+} */
+
+/*
